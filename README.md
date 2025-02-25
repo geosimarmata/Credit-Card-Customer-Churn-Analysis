@@ -40,14 +40,7 @@ Understanding customer churn is crucial for financial institutions to retain val
 ---
 
 ## **📸 Dashboard & Key Findings**
-![Dashboard Screenshot](https://your-dashboard-image-link.com)  
-[🔗 View Full Dashboard](https://lookerstudio.google.com/reporting/aa9ecf4b-046d-4928-b00a-3f8cd1e55a79)  
-
----
-
-## **📂 Additional Resources**
-🔗 **GitHub Repository:** [View Code](#)  
-📜 **Dataset Source:** [Download Data](#)  
+![Dashboard Screenshot](https://github.com/geosimarmata/Credit-Card-Customer-Churn-Analysis/blob/main/Images/Dasboard%20-%20Geo.PNG)
 
 ---
 
